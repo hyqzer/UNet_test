@@ -1,0 +1,15 @@
+# 数据集
+zaosheng/
+
+train/
+pretrained/
+
+# 缓存
+__pycache__/
+*.pth
+*.bin
+*.h5
+*.zip
+*.rar
+# 日志
+logs/
