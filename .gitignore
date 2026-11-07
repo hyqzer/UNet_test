@@ -1,12 +1,11 @@
 # 数据集
 zaosheng/
-
-train/
+data/
 pretrained/
 
 # 缓存
 __pycache__/
-*.pth
+*.bat
 *.bin
 *.h5
 *.zip
